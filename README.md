@@ -1,4 +1,2 @@
-# NewsLetter
- Email newsletter
- mailchimp api usage
- And deployed to internet using heroku host
+# Email NewsLetter
+ we use mailchimp api And deployed to internet using heroku host service
